@@ -1,0 +1,6 @@
+OrderID,OrderDate,CustomerID,Product,Category,Quantity,UnitPrice,Region,LoadDate
+1011,2024-03-02,C007,Monitor,Electronics,2,18000.0,East,2024-03-31
+1012,2024-03-09,C003,Headset,Accessories,1,2500.0,West,2024-03-31
+1013,2024-03-15,C005,Laptop,Electronics,1,75000.0,North,2024-03-31
+1014,2024-03-22,C002,Webcam,Accessories,2,3200.0,East,2024-03-31
+1015,2024-03-29,C008,Tablet,Electronics,1,45000.0,South,2024-03-31

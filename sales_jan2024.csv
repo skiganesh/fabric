@@ -1,0 +1,6 @@
+OrderID,OrderDate,CustomerID,Product,Category,Quantity,UnitPrice,Region,LoadDate
+1001,2024-01-05,C001,Laptop,Electronics,1,75000.0,South,2024-01-31
+1002,2024-01-10,C002,Mouse,Accessories,2,850.0,North,2024-01-31
+1003,2024-01-15,C003,Keyboard,Accessories,1,1500.0,East,2024-01-31
+1004,2024-01-20,C001,Monitor,Electronics,1,18000.0,South,2024-01-31
+1005,2024-01-25,C004,Headset,Accessories,3,2500.0,West,2024-01-31
